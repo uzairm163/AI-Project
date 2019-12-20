@@ -1,3 +1,8 @@
+# hammad sheikh   02-131172-001
+# Muhammad Uzair  02-131172-011
+# Ahsan Ishtiaq   02-131172-013
+
+
 import random
 # create a master questions list of question objects
 questionsList = []
